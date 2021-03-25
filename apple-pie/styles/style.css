@@ -1,0 +1,28 @@
+body{
+    font-family: 'Geneva', sans-serif; 
+
+}
+.apple-pie-heading {
+background-image: url('../images/apple-pie.jpg');
+align-items:center;
+margin:20px;
+width:1500px ;
+height:1500px ;
+text-align: center;
+color: white;
+font-size: 100px;
+border-style:solid;
+border-radius: 5px;
+line-height: 1500px;
+}
+
+div{
+    width: 1500px;
+    margin:20px
+}
+
+img{  
+   line-height: 500px;
+    text-align: center;
+}
+
