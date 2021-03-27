@@ -6,14 +6,16 @@ body{
 background-image: url('../images/apple-pie.jpg');
 align-items:center;
 margin:20px;
-width:1500px ;
-height:1500px ;
+background-position: 0 0;
+background-size: cover;
+background-repeat: no-repeat;
+height: 850px;
 text-align: center;
 color: white;
 font-size: 100px;
 border-style:solid;
 border-radius: 5px;
-line-height: 1500px;
+line-height: 450px;
 }
 
 div{
